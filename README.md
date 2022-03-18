@@ -1,10 +1,10 @@
 ## Laravel Vue JS CMS
 
 ### Tech Stack
-1. Laravel \ 
-2. Vue JS \
-3. Bootstrap \ 
-4. MySQL
+1. Laravel  
+2. Vue JS  
+3. Bootstrap  
+4. MySQL  
 
 ### Admin Side
 
