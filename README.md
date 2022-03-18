@@ -46,13 +46,13 @@
 
 2. Click on Category\
 	2.1 URL - http://localhost:8000/{category} \
-	2.2 Display all Sub_categories added under Category
+	2.2 Display all Sub_categories under the selected Category  
 
 3. Click on Sub_Category\
 	3.1 URL - http://localhost:8000/{category}/{sub_Category} \
-	3.2 Display all products added under Sub_Category.
+	3.2 Display all Products under the selected Sub_Category.
 
 4. Click on Product\
 	4.1 URL - http://localhost:8000/{category}/{sub_Category}/{product} \
-	4.2 View One Product Detail
+	4.2 View the Product's Detail
 
