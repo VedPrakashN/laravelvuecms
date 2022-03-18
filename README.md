@@ -8,17 +8,19 @@
 
 ### Instruction : Run below commands to start the project  
 
-1. npm install  
-2. php artisan serve  
-3. npm run watch OR yarn run watch  
---Note: Database .sql file is provided in database folder.  
+1. composer install  
+2. npm install  
+3. php artisan serve  
+4. npm run watch OR yarn run watch  
+
+#### Note: Database .sql file is provided in database folder.  
 
 ### Admin Side
 
 1. Category Module\
 	1.1 URL - http://localhost:8000/admin/category \
 	1.2 complete CRUD\
-	1.3 Delete Category with SubCategory and Product using HasMany Relationship\
+	1.3 Delete Category with SubCategory and Product using HasMany Relationship  
 
 2. Sub Category Module\
 	2.1 URL - http://localhost:8000/admin/sub-category \
