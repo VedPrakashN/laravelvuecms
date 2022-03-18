@@ -1,4 +1,10 @@
-## Laravel CMS Task
+## Laravel Vue JS CMS
+
+### Tech Stack
+1. Laravel \ 
+2. Vue JS \
+3. Bootstrap \ 
+4. MySQL
 
 ### Admin Side
 
@@ -22,7 +28,7 @@
 	3.5 Delete Data with Products using HasMany Relationship\
 
 
-### Frontend side:
+### User Side:
 
 1. In home Page\
 	1.1 URL - http://localhost:8000/ \
