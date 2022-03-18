@@ -6,6 +6,13 @@
 3. Bootstrap  
 4. MySQL  
 
+### Instruction : Run below commands to start the project  
+
+1. npm install  
+2. php artisan serve  
+3. npm run watch OR yarn run watch  
+--Note: Database .sql file is provided in database folder.  
+
 ### Admin Side
 
 1. Category Module\
